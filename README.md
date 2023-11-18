@@ -19,7 +19,7 @@ class WhoAmI:
    def Ambitions():
    	LearnGerman(🇩🇪)
    	FinishMyNovel(✍🏻)
-    GradugateASAP(👨🏻‍🎓)
+    	GradugateASAP(👨🏻‍🎓)
    	# Assume 10 more awesome ambitions here  ;)
 ```
 <i>Follow me around the web:</i><br>
