@@ -1,18 +1,24 @@
-### Hi there 👋
-Viewer number:
-![Visitor Count](https://profile-counter.glitch.me/{YOURUSER}/count.svg)
+<img src="https://komarev.com/ghpvc/?username=Preetham-ai" alt="Preetham-ai" /> </p>
 
-<!--
-**Preetham-ai/Preetham-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+```python
+class WhoAmI:
+	user = 'Preetham Pemmasani'
+   	current_work = 'Writing code'+'100 other things I do'
+   	hobbies = [
+   			'🖼️ Designing stuff',
+   			'🍿 Watching aesthetic movies',
+   			'✨ Listening to classics'
+   			'🐛 Being up all Night chasing that ONE BUG...'
+        '..............etc'
+   		        ]
+   
+   def getLocation():
+   	return India_Earth()
+   
+   def Ambitions():
+   	LearnGerman(🇩🇪)
+   	FinishMyNovel(✍🏻)
+    GradugateASAP(👨🏻‍🎓)
+   	# Assume 10 more awesome ambitions here  ;)
+```
