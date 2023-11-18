@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 <!--
 **Preetham-ai/Preetham-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
