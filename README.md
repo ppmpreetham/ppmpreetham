@@ -7,25 +7,28 @@
 
 ### 👨‍💻 About Me
 ```rust
-fn main() {
-    let who_am_i = WhoAmI {
-        user: "Preetham Pemmasani",
-        current_work: String::from("Writing code") + "100 other things I do",
-        hobbies: vec![
-            "🖼️ Designing stuff",
-            "🍿 Watching aesthetic movies",
-            "✨ Listening to classics",
-            "🐛 Being up all Night chasing that ONE BUG...",
-            "..............+ a lot of other cool stuff",
-        ],
-    };
+struct WhoAmI;
 
-    println!("User: {}", who_am_i.user);
-    println!("Current Work: {}", who_am_i.current_work);
-    println!("Hobbies: {:?}", who_am_i.hobbies);
-    println!("Location: {}", who_am_i.get_location());
+impl WhoAmI {
+    static user: &'static str = "Preetham Pemmasani";
+    static current_work: &'static str = "Writing code".to_string() + "100 other things I do";
+    static hobbies: Vec<&'static str> = vec![
+        "🖼️ Designing stuff",
+        "🍿 Watching aesthetic movies",
+        "✨ Listening to classics",
+        "🐛 Being up all Night chasing that ONE BUG...",
+        "..............+ a lot of other cool stuff",
+    ];
 
-    println!("Ambitions:");
-    who_am_i.ambitions();
+    fn get_location() -> String {
+        IndiaEarth.to_string()
+    }
+
+    fn ambitions() {
+        LearnGerman("🇩🇪");
+        FinishMyNovel("✍🏻");
+        GraduateASAP("👨🏻‍🎓");
+        // Assume 10 more awesome ambitions here  ;)
+    }
 }
 ```
