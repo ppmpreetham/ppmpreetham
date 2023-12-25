@@ -25,9 +25,9 @@ impl WhoAmI {
     }
 
     fn ambitions() {
-        LearnGerman("🇩🇪");
-        FinishMyNovel("✍🏻");
-        GraduateASAP("👨🏻‍🎓");
+        Learn_German("🇩🇪");
+        Finish_My_Novel("✍🏻");
+        Graduate_ASAP("👨🏻‍🎓");
         // Assume 10 more awesome ambitions here  ;)
     }
 }
