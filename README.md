@@ -4,6 +4,9 @@
 
 <a href="https://www.preetham.top/"> www.preetham.top </a>
 
+
+![ppm-vim-view](https://github.com/ppmpreetham/ppmpreetham/blob/main/final.gif?raw=true)
+
 Drag to Interact ↓
 ```stl
 solid 
@@ -4518,4 +4521,3 @@ endfacet
 endsolid 
 
 ```
-![ppm-vim-view](https://github.com/ppmpreetham/ppmpreetham/blob/main/final.gif?raw=true)
