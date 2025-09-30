@@ -4,6 +4,6 @@
 
 I think my website is much prettier than a readme
 
-<a href="https://www.preetham.top/"> www.preetham.top </a>
+<a href="https://www.preetham.top/brain/"> www.preetham.top </a>
 
 ![ppm-vim-view](https://github.com/ppmpreetham/ppmpreetham/blob/main/final.gif?raw=true)
