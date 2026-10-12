@@ -8,9 +8,8 @@ I think my website is much prettier than a readme
 
 ## Featured
 
-### Rust
-
 * [fastrapi](https://github.com/ppmpreetham/fastrapi) - High-performance web framework (6x faster than FastAPI)
+* [Argon](https://github.com/re-juvenate/argon) - Simulate your AWS architecture before production does
 * [pyo3-nest](https://github.com/ppmpreetham/pyo3-nest) - Ergonomic macro DSL for declaring deeply nested submodules in PyO3 without boilerplate.
 * [DOMOxide](https://github.com/ppmpreetham/domoxide) - (45x faster Ultra fast XSS sanitizer than DOMPurify)
 * [zopra](https://github.com/ppmpreetham/zopra) - Leptos like declarative UI framework with React style syntax that compiles down to GPUI.
