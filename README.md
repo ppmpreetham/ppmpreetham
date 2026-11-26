@@ -6,6 +6,7 @@ I think my website is much prettier than a readme
 
 <a href="https://www.preetham.top/brain/"> www.preetham.top </a>
 
+If my code has helped you, please consider [sponsoring me](https://www.github.com/sponsors/ppmpreetham)
 ## Featured
 
 * [fastrapi](https://github.com/ppmpreetham/fastrapi) - High-performance web framework (6x faster than FastAPI)
